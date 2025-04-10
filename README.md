@@ -3,10 +3,10 @@
 <!--
 **jiheepark06/jiheepark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img scr="https://capsule-render.vercel.app/api?type=venom&height=300&color=d3bdf9&text=:0&fontColor=5112be&fontSize=100&animation=blink"
+
 
 Here are some ideas to get you started:
-
+<img scr="https://capsule-render.vercel.app/api?type=venom&height=300&color=d3bdf9&text=:0&fontColor=5112be&fontSize=100&animation=blink"
 - 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
