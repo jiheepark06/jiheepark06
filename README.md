@@ -6,7 +6,7 @@
 
 
 Here are some ideas to get you started:
-<img scr="https://capsule-render.vercel.app/api?type=venom&height=300&color=d3bdf9&text=:0&fontColor=5112be&fontSize=100&animation=blink"
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 - 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
